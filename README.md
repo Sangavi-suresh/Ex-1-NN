@@ -127,10 +127,12 @@ SCALING THE DATASET:
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/d1266732-43d6-4e5e-88f4-cf2b2999fee8)
 
 X FEATURES:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/85ab171d-4e01-4323-a253-a333de785803)
 
 
 Y FEATURES:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/a4f760ef-6e95-43d8-bd0d-e4582aab3def)
 
 
