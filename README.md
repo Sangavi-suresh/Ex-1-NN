@@ -100,20 +100,25 @@ print(len(x_test))
 
 ## OUTPUT:
 DATASET:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/efa2cc65-aaf4-4adc-9526-a0448a707460)
 
 
 DROPPING THE UNWANTED DATASET:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/d47d2e73-05c3-49dd-b936-6e379b4d5bfc)
 
 
 CHECKING NULL VALUES:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/caa724ef-5465-48a7-9fb6-af6f35acad0e)
 
 CHECKING FOR DUPLICATION:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/d96e57b7-e3c5-4c9d-ad46-7e6d0c78a24f)
 
 DESCRIBING THE DATASET:
+
 ![image](https://github.com/Sangavi-suresh/Ex-1-NN/assets/118541861/5fa8e595-448f-4508-ab26-44a8871f540e)
 
 
